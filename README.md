@@ -1,5 +1,5 @@
 # Health-Data-Competition
-The code and final presentation from the 2022 Interdisciplinary Health Data Competition at the University of Minnesota. 
+The code and final presentation from my group's participation in the 2022 Interdisciplinary Health Data Competition at the University of Minnesota. 
 
 The prompt of the competition was: "Teams will complete an exploratory analysis of the public-use HCAHPS survey to assess how patient experience relates to other aspects of care. 
 
